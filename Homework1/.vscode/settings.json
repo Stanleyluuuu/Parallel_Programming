@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ipynb": "python",
+        "cmath": "cpp",
+        "initializer_list": "cpp",
+        "system_error": "cpp"
+    }
+}
