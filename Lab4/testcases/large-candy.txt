@@ -1,0 +1,5 @@
+procs=1
+threads=1
+gpus=1
+total_timelimit=25
+sobel_timelimit=107
